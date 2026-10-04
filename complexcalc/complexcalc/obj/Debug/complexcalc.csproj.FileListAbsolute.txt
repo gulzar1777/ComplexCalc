@@ -1,0 +1,9 @@
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\obj\Debug\complexcalc.csproj.AssemblyReference.cache
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\obj\Debug\complexcalc.Properties.Resources.resources
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\obj\Debug\complexcalc.csproj.GenerateResource.cache
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\obj\Debug\complexcalc.csproj.CoreCompileInputs.cache
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\bin\Debug\complexcalc.exe.config
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\bin\Debug\complexcalc.exe
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\bin\Debug\complexcalc.pdb
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\obj\Debug\complexcalc.exe
+C:\Users\ewez\Desktop\github\complexcalc\complexcalc\obj\Debug\complexcalc.pdb
